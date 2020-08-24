@@ -1,0 +1,4 @@
+inventory:
+  database:
+    username: "ankur_qa"
+    password: "ankur_qa"
